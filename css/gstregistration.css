@@ -2,11 +2,31 @@
     margin: 0px;
     padding: 0px;
 }
+.floater{
+    text-align: center;
+    font-size: 18px;
+    padding: 5px;
+    background-color:rgb(253 236 236);
+}
+
+.floater a{
+    color: rgb(255, 0, 0);
+}
 .container{
     background-color:rgb(245 250 255);
     height: 100vh;
     width: 100%;
 }
 .content h2{
-    padding:60px 70px;
+    padding-top: 70px;
+    padding-left:190px;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.content p{
+    font-size: 20px;
+    margin-left: 190px;
+    padding: 10px;
+
 }
