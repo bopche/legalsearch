@@ -151,3 +151,76 @@ button{
 .icon3 b{
     font-size: 20px;
 }
+.third-container{
+    align-items: center;
+    height: 10vh;
+    background-color: rgb(230 242 255);
+    width: 90%;
+    margin: 70px;
+    border-radius: 10px;
+    border-radius: blue;
+    padding: 30px;
+}
+.a3{
+    text-decoration: none;
+    color: black;
+    padding: 38px;
+
+}
+.gst{
+    margin-left: 180px;
+    margin-top: 100px;
+}
+
+.heading {
+    text-align:center;
+    
+}
+.inner {
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 60vh;
+    width: 55%;
+    background-color: #fff;
+    margin-right: 100px;
+    margin-top: 50px;
+    font-size: 19px;
+    text-align: justify;
+    
+}
+.note{
+    display: flex;
+    background-color:rgb(230 242 255);
+    height: 7vh;
+    width: 78%;
+    text-align: center;
+    margin-left: 155px;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.note p{
+    
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+    
+}
+.main-act{
+    margin-top: 70px;
+}
+.act h1{
+    padding: 5px;
+}
+.act{
+   width: 80%;
+    height: 15vh;
+    text-align:center ;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
