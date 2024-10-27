@@ -14,12 +14,12 @@
 }
 .container{
     background-color:rgb(245 250 255);
-    height: 100vh;
+    height: 90vh;
     width: 100%;
 }
-.content h2{
+.content h1{
     padding-top: 70px;
-    padding-left:190px;
+    padding-left:160px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
@@ -58,6 +58,7 @@ form h2{
     font-size: 16px;
     width: 80%;
     height: 6vh;
+    padding: 5px;
     border-radius: 5px;
    
 }
@@ -89,4 +90,64 @@ button{
     text-decoration: none;
     border: none;
 
+}
+.list h2{
+    margin-top: 60px;
+    margin-left:190px;
+}
+.list ul{
+    margin-top: 20px;
+    margin-left:230px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.container a{
+    margin-top:10px;
+    padding-left: 230px;
+    font-size: 17px;
+}
+.second-container{
+    height: 13vh;
+    width: 100%;
+    background-color: rgb(230 242 255);
+}
+.icons{
+    display: flex;
+    padding: 25px;
+    justify-content: space-around;
+}
+.icon1{
+    display: flex;
+
+}
+.icon1 p{
+    margin-top: 5px;
+    padding: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon1 b{
+    font-size: 20px;
+}
+.icon2{
+    display: flex;
+
+}
+.icon2 p{
+    margin-top: 5px;
+    padding: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon2 b{
+    font-size: 20px;
+}
+.icon3{
+    display: flex;
+
+}
+.icon3 p{
+    margin-top: 5px;
+    padding: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon3 b{
+    font-size: 20px;
 }
