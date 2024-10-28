@@ -207,9 +207,9 @@ button{
     
 }
 .main-act{
-    margin-top: 70px;
+    margin-top: 100px;
 }
-.act h1{
+.act h2{
     padding: 5px;
 }
 .act{
@@ -222,5 +222,20 @@ button{
     border-radius: 5px;
     padding: 20px;
     font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(230 242 255) ;
+}
+
+.inner-benefits{
+    text-align: center;
+    margin: 50px;
+}
+.inner-benefits p{
+    padding: 20px;
+    margin: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.inner-benefits h1{
     font-family: Arial, Helvetica, sans-serif;
 }
