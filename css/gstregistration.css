@@ -239,3 +239,54 @@ button{
 .inner-benefits h1{
     font-family: Arial, Helvetica, sans-serif;
 }
+.row1{
+    display: flex;
+    justify-content: space-around;
+
+}
+.card1{
+    background-color: rgb(230 242 255);
+    height: 40vh;
+    width: 20%;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    border-radius: 5px;
+
+}
+.card1 h2{
+    padding: 10px;
+}
+.card1 p{
+    padding: 10px;
+}
+.notice1{
+    background-color:rgb(247 247 247);
+    width: 70%;
+    height: 34vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    margin-top: 90px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.inner-notice{
+    display: flex;
+}
+.inner-notice p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-align: center;
+    text-align: justify;
+    margin: 18px;
+}
+.img2{
+    height: 25vh;
+    width: auto;
+    padding: 10px;
+}
