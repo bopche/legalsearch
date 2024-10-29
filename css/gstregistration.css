@@ -414,7 +414,7 @@ table{
 }
 .inside{
     
-    height: 70vh;
+    height: 73vh;
     width: 50%;
     margin-top:70px;
     margin-left: 60px;
@@ -442,4 +442,72 @@ ul li{
    margin-top: 230px;
    height: 50vh;
    width: auto;
+}
+.section5{
+    text-align: center;
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.para{
+    padding:40px;
+    font-size: 19px;
+    margin-bottom:40px
+    
+}
+.inline-img{
+    margin-left: auto;
+    margin-right: auto;
+    height: 20vh;
+    width: 70%;
+    
+}
+.line{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 60px;
+    color: rgb(67, 51, 51);
+}
+.line-img{
+    display: flex;
+    height: 7vh;
+    width: auto;
+    justify-content: space-between;
+    margin-top: -97px;
+}
+.arrow{
+    height: 3vh;
+    width: auto;
+}
+.file{
+    margin-top: -50px;
+}
+.img-heading{
+   display: flex;
+   justify-content: space-between;
+   font-family: Arial, Helvetica, sans-serif;
+
+   
+}
+.img-heading h3{
+    margin: 10px;
+    
+}
+.img-para{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+   
+}
+.q-A{
+margin-top: 80px;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 150px;
+
+
+}
+.q-A p{
+    font-size: 18px;
+    padding: 15px;
 }
