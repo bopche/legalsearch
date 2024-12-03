@@ -867,15 +867,46 @@ color: rgb(59, 56, 56);
     justify-content: center;
 
 }
+.faq-box-container2{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box-container3{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box-container4{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box-container5{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box-container6{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box-container7{
+    display: flex;
+    justify-content: center;
+
+}
 .faq-box1{
-    background-color: aqua;
-    height: 30vh;
+    background-color: #fff;
+    height: 25vh;
     width: 40%;
     margin: 30px;
     padding: 6px;
 }
 .faq-box1 h3{
     font-size: 23px;
+    margin: 3px;
 }
 .faq-box1 p{
     font-size: 18px;
