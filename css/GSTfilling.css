@@ -212,3 +212,90 @@ button{
     margin-top: -360px;
     margin-right: 70px;
 }
+.container104{
+    background-color:rgb(241 247 255 ) ;
+    height: 165vh;
+    margin-top: 70px;
+    padding: 30px;
+
+}
+.inner-container104{
+    display: flex;
+}
+.content104-1 p{
+    margin-left: 90px;
+    font-size: 18px;
+}
+.content104-1 ul{
+    margin-left: 90px;
+    font-size: 18px;
+}
+.content104-1 h1{
+    margin-left: -10px;
+    
+}
+.img104-1{
+    height: 60vh;
+    width: auto;
+    margin-top: 30px;
+}
+.inner-container104-2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.container104-2{
+    font-size: 18px;
+}
+.img104-2{
+    margin-top: 110px;
+    height: 40vh;
+    margin: auto;
+}
+.container105 p{
+    text-align: center;
+    font-size: 18px;
+}
+.line p{
+    color: rgb(159, 148, 148);
+    text-align: center;
+    margin-top: 110px;
+}
+.line-img{
+    display: flex;
+   width: 40%;
+   margin-left: 465px;
+    justify-content: space-around;
+    margin-top: -50px;
+}
+.line-img1{
+    height: 10vh;
+    width: auto;
+}
+.arrow{
+    height: 3vh;
+    width: auto;
+    margin-top: 32px;
+}
+.heading{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin-left: 395px;
+    margin-top: 20px;
+}
+.img-para{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin-left: 430px;
+    color: rgb(111, 108, 108);
+    margin-top: 20px;
+}
+.inner-cover105{
+    margin-top: 60px;
+    margin-left: 150px;
+}
+.space{
+    margin:20px ;
+}
