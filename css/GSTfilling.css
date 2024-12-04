@@ -152,10 +152,10 @@ button{
 .box1{
     height: 40vh;
     width: 30%;
-    background-color: aqua;
-    border-radius: 5px;
+    background-color: rgb(241 247 255 );
+    border-radius: 8px;
     text-align: center;
-    padding: 5px;
+    padding: 15px;
     margin: 20px;
     justify-content: center;
 }
@@ -167,10 +167,10 @@ button{
 .box2{
     height: 40vh;
     width: 30%;
-    background-color: aqua;
-    border-radius: 5px;
+    background-color: rgb(241 247 255 );
+    border-radius: 8px;
     text-align: center;
-    padding: 5px;
+    padding: 15px;
     margin: 20px;
     justify-content: center;
 }
@@ -183,4 +183,32 @@ button{
 }
 .box2 h2{
     margin: 7px;
+}
+.container103{
+    margin-top: 140px;
+    display: flex;
+}
+.container103-1{
+    width: 70%;
+    height: 70vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: rgb(247 247 247);
+    padding: 20px;
+    border-radius: 12px;
+}
+.container103-1 ul{
+    margin-left: 80px;
+    font-size: 19px;
+}
+.container103-1 p{
+    font-size: 18px;
+    margin-left: 80px;
+    
+}
+.img103{
+    float: right;
+    margin-top: -360px;
+    margin-right: 70px;
 }
