@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .floater{
     text-align: center;
@@ -14,7 +15,7 @@
 }
 .container{
     background-color:rgb(245 250 255);
-    height: 90vh;
+    height: 95vh;
     width: 100%;
 }
 .content h1{
@@ -36,7 +37,7 @@
     height: 55vh;
     width: 30%;
     float: right;
-    margin-right: 50px;
+    margin-right: 80px;
     margin-top:-370px;
     border-radius: 10px;
     padding: 5px;
@@ -75,8 +76,8 @@ padding: 10px;
     transform: translate(-50%, -50%);
     float: right;
     text-align: center;
-    margin-top: -17px;
-    margin-right: 65px;
+    margin-top: -18px;
+    margin-right: 45px;
     
 }
 button{
@@ -86,6 +87,9 @@ button{
     text-align: center;
     font-size: 19px;
     border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-left: 47px;
     text-decoration: none;
     border: none;
@@ -97,12 +101,12 @@ button{
 }
 .list ul{
     margin-top: 20px;
-    margin-left:230px;
+    margin-left:200px;
     font-family:Arial, Helvetica, sans-serif ;
 }
 .container a{
     margin-top:10px;
-    padding-left: 230px;
+    padding-left: 210px;
     font-size: 17px;
 }
 .second-container{
@@ -405,7 +409,7 @@ table{
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     margin: 15px;
-    padding-top: 20px;
+    padding-top: 10px;
     
     
 }
@@ -504,10 +508,406 @@ ul li{
 margin-top: 80px;
 font-family: Arial, Helvetica, sans-serif;
 margin-left: 150px;
+margin-right: 150px;
 
 
 }
 .q-A p{
     font-size: 18px;
     padding: 15px;
+    text-align: justify;
+    color: rgb(75, 74, 74);
+}
+.note11{
+    display: flex;
+    background-color:#fff;
+    height: 10vh;
+    width: 78%;
+    text-align: center;
+    margin-left: 155px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 50px;
+    box-shadow: 1px 1px 1px 1px rgb(0, 153, 255);
+    
+}
+.note11 p{
+    
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+    padding-top: 20px;
+}
+.new{
+    margin-top: 40px;
+    height: 565vh;
+    width: 97.3%;
+    background-color:rgb(250 250 250);
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.new .img99 {
+    float: right;
+    margin-right:40px ;
+    margin-top: -300px;
+    height: 40vh;
+    width: auto;
+}
+.new-section h1{
+    text-align: center;
+    margin: 30px;
+}
+.new-section p{
+    text-align: center;
+    font-size: 18px;
+    color: rgb(53, 51, 51);
+}
+.ul-points{
+    height: 37vh;
+    width: 50%;
+    margin-left: 100px;
+    padding: 20px;
+    text-align: justify;
+    color: rgb(53, 51, 51);
+}
+.point{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 90px;
+}
+.upper-heading{
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+.card-container1{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 90px;
+}
+.white-card{
+    width: 40%;
+    height: 30vh;
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 2px 2px 3px 2px rgb(232, 232, 215);
+    box-sizing: border-box;
+    
+}
+.white-card h2{
+    margin: 20px;
+}
+.white-card p{
+    margin: 20px;
+    text-align: justify;
+    font-size: 17px;
+}
+.types-section h1{
+    text-align: center;
+    padding: 50px;
+}
+.types-section p{
+    text-align: center;
+
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   padding: 0px 180px;
+   font-size: 19px;
+}
+.background{
+margin: 50px;
+ background-color: #fff;
+ height: 55vh;
+ width: 85%;
+ padding: 15px;
+ margin-right: auto;
+ margin-left:auto ;
+ font-size: 18px;
+ border-radius: 15px;
+ 
+}
+.format-img{
+    float: right;
+margin-top: -260px;
+}
+.gst-no-format h1{
+    margin-top: 15px;
+}
+.gst-no-format p{
+    margin-top: 15px;
+}
+ul{
+    margin-top: 25px;
+}
+ul li{
+    margin: 10px;
+}
+.container-new{
+    height: 30vh;
+    width:80% ;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(230 242 255);
+    padding: 10px;
+    border-radius: 15px;
+    margin-top:70px ;
+   
+}
+.flex{
+    display: flex;
+}
+
+.container-new h1{
+margin: 20px;
+}
+.container-new p{
+font-size: 18px;
+margin: 20px;
+color: rgb(59, 56, 56);
+}
+.img100{
+ height: 10vh;
+ width: auto;
+ margin-top: -168px;
+ float: right;
+
+}
+.container100{
+    background-color:  rgb(249 249 249);
+    margin: 100px;
+    height: 40vh;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 1px 2px 2px 1px #828080;
+}
+.container100 h1{
+    text-align: center;
+    margin: 15px;
+  
+}
+.container100 p{
+    float: right;
+    font-size: 18px;
+    text-align: justify;
+   
+}
+.content100{
+    margin-top: -250px;
+}
+.container50{
+    height: 95vh;
+    width: 80%;
+    background-color: rgb(230 242 255);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    padding: 20px;
+}
+.img50{
+    float: right;
+    margin-top: -265px;
+}
+.inner-content50-1 p{
+    margin: 10px;
+    font-size: 17px;
+}
+.inner-content50-2 h1{
+    text-align: center;
+    margin: 40px;
+}
+.p{
+    float: right;
+    margin-top: -250px;
+}
+.p p{
+    font-size: 19px;
+}
+.img501{
+    height: 33vh;
+    width: auto;
+    margin: 5px;
+}
+
+.container33{
+    height: 50h;
+    width: 80%;
+    background-color: rgb(249 249 249) ;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+   margin-top: 100px;
+   padding: 15px;
+   box-shadow: 1px 2px 2px 1px #828080;
+   
+}
+.content33{
+    display: flex;
+}
+.p33{
+    padding: 30px;
+}
+.p33 h1{
+    margin: 10px;
+}
+.p33 p{
+    font-size: 18px;
+}
+.img33{
+    margin:70px 0px;
+}
+.container34{
+    height: 150vh;
+    width: 100%;
+    margin-top: 120px;
+    background-color: rgb(255 245 245);
+}
+.box34-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.box34-1{
+    height: 25vh;
+    width: 31%;
+    background-color: #fff;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
+    margin-left: 150px;
+}
+.box34-1 h2{
+    margin: 10px;
+
+}
+.box34-1 p{
+    color: #474444;
+    font-size: 17px;
+}
+.container34 h1{
+    padding: 40px 0px;
+   
+    text-align: center;
+}
+.box34-2{
+    height: 25vh;
+    width: 31%;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    margin-right: 150px;
+}
+.box34-2 h2{
+    margin: 10px;
+
+}
+.box34-2 p{
+    color: #474444;
+    font-size: 17px;
+}
+.box34-3{
+    height: 25vh;
+    width: 31%;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box34-3 h2{
+    margin: 10px;
+
+}
+.box34-3 p{
+    color: #474444;
+    font-size: 17px;
+}
+.container1000{
+    height: 110vh;
+    width: 60%;
+    background-color: #fff;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.inside-the-container{
+    height: 100vh;
+    width: 95%;
+    background-color: rgb(230 242 255);
+    padding: 30px;
+    float: right;
+
+}
+.inside-the-container p{
+    margin: 10px;
+    font-size: 18px;
+}
+.inside-the-container h1{
+    margin: 10px;
+}
+.faq-container{
+    width: 100%;
+    height: 70vh;
+
+}
+.faq-container h1{
+    text-align: center;
+    padding: 20px;
+}
+.faq-box-container1{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box-container2{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box-container3{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box-container4{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box-container5{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box-container6{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box-container7{
+    display: flex;
+    justify-content: center;
+
+}
+.faq-box1{
+    background-color: #fff;
+    height: 25vh;
+    width: 40%;
+    margin: 30px;
+    padding: 6px;
+}
+.faq-box1 h3{
+    font-size: 23px;
+    margin: 3px;
+}
+.faq-box1 p{
+    font-size: 18px;
 }
