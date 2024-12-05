@@ -150,7 +150,7 @@ button{
     
 }
 .box1{
-    height: 40vh;
+    height: 47vh;
     width: 30%;
     background-color: rgb(241 247 255 );
     border-radius: 8px;
@@ -165,7 +165,7 @@ button{
     
 }
 .box2{
-    height: 40vh;
+    height: 47vh;
     width: 30%;
     background-color: rgb(241 247 255 );
     border-radius: 8px;
@@ -185,7 +185,7 @@ button{
     margin: 7px;
 }
 .container103{
-    margin-top: 140px;
+    margin-top: 200px;
     display: flex;
 }
 .container103-1{
@@ -316,3 +316,138 @@ table th{
     padding: 25px 70px;
     
 }
+table td{
+    padding: 10px 40px;
+}
+.container106{
+   margin-top: 80px;
+   
+}
+.inner-content106{
+    display: flex;
+}
+.inner106{
+    background-color:rgb(241 247 255 );
+    height: 60vh;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 19px;
+    padding: 15px;
+    border-radius: 7px;
+    
+}
+.inner106 p{
+    margin-left: 30px;
+}
+.inner106 ul{
+    margin-left: 50px;
+}
+.img106 img{
+    float: right;
+    margin-top: -270px;
+    margin-right: 10px;
+    height: 37vh;
+    width: auto;
+}
+
+.container107{
+    margin-top: 80px;
+    
+ }
+ .inner-content107{
+     display: flex;
+ }
+ .inner107{
+     background-color:rgb(247 247 247);
+     height: 60vh;
+     width: 80%;
+     margin-right: auto;
+     margin-left: auto;
+     font-size: 19px;
+     padding: 15px;
+     border-radius: 7px;
+     
+ }
+ .inner107 p{
+     margin-left: 30px;
+ }
+ 
+ .img107 img{
+     margin-top: 70px;
+     margin-left: 20px;
+     height: 37vh;
+     width: auto;
+ }
+ .inner-para107{
+    float: right;
+    margin-top: -330px;
+    margin-right: 20px;
+    justify-content: center;
+ }
+
+
+
+ .faq-container{
+    width: 100%;
+    height: 70vh;
+    
+
+}
+.faq-container h1{
+    text-align: center;
+    padding: 10px;
+}
+.faq-box-container1{
+    display: flex;
+    justify-content: center;
+    margin-left: 35px;
+
+}
+.faq-box-container2{
+    display: flex;
+    justify-content: center;
+    margin-left: 35px;
+
+}
+.faq-box-container3{
+    display: flex;
+    justify-content: center;
+    margin-left: 35px;
+
+}
+.faq-box-container4{
+    display: flex;
+    justify-content: center;
+    margin-left: 35px;
+
+}
+.faq-box-container5{
+    display: flex;
+    justify-content: center;
+    margin-left: 35px;
+
+}
+.faq-box-container6{
+    display: flex;
+    justify-content: center;
+    margin-left: 35px;
+
+}
+.faq-box1{
+    background-color: #fff;
+    height: 25vh;
+    width: 40%;
+    margin: 10px 20px;
+    padding: 6px;
+}
+.faq-box1 h3{
+    font-size: 23px;
+    margin: 3px;
+}
+.faq-box1 p{
+    font-size: 18px;
+}
+ 
+
+ 
